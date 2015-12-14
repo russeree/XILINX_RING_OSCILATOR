@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:44:32 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Fri Dec  4 02:27:08 2015
+# Process ID: 22462
+# Current directory: /home/reese/xilinx_ring_oscilator/xilinx_ring_oscilator.runs/impl_1
+# Command line: vivado -log ring_osc_mod.vdi -applog -messageDb vivado.pb -mode batch -source ring_osc_mod.tcl -notrace
+# Log file: /home/reese/xilinx_ring_oscilator/xilinx_ring_oscilator.runs/impl_1/ring_osc_mod.vdi
+# Journal file: /home/reese/xilinx_ring_oscilator/xilinx_ring_oscilator.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source ring_osc_mod.tcl -notrace
